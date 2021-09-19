@@ -1,4 +1,4 @@
-package com.brandao.kafkapractice.demos;
+package com.brandao.kafkapractice.demos.producers;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

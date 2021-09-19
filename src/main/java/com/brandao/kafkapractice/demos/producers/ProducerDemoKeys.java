@@ -1,4 +1,4 @@
-package com.brandao.kafkapractice.demos;
+package com.brandao.kafkapractice.demos.producers;
 
 import org.apache.kafka.clients.producer.*;
 import org.apache.kafka.common.serialization.StringSerializer;
